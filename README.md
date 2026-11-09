@@ -1,4 +1,21 @@
-## Hi there 👋
+# 动态宝科技｜Dongtaibao-01
+> 北京动态宝科技有限公司 · 财经内容RSS分发接口 官方接入导航页
+
+我们面向财经媒介渠道、资讯平台提供标准化RSS内容订阅服务，支持渠道侧行为回参（callback）上报。
+
+📌 快速导航
+- 📖 [RSS接口完整规范 & 回调回参协议](这里等下填业务仓库的链接)
+- 🧪 RSS样例、回调请求示例
+- ❓ 接入FAQ（申请流程、限流、报错排查）
+- 📝 更新日志：协议字段变更通知
+
+📞 商务&技术对接
+合作咨询：010-56186204
+企业微信：13500957353
+官网：https://www.dongtaibao.cn/
+
+> 说明：RSS订阅需要提交企业信息审核开通，文档为唯一对接标准。
+
 
 <!--
 **Dongtaibao-01/Dongtaibao-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
